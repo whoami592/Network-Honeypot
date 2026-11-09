@@ -84,8 +84,8 @@ Ports outside this list default to the **Telnet** profile.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/whoami592/Network-Honeypot.git
+cd Network-Honeypot
 ```
 
 ## 💻 Usage
